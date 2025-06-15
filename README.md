@@ -51,5 +51,4 @@ AI and quantum tech enthusiast from Hyderabad, India — passionate about buildi
 
 ## 📧 Contact  
 
-- **GitHub:** [YourUsername](https://github.com/YourUsername)
-- **Email:** youremail@example.com  
+- **GitHub:** [YourUsername](https://github.com/Bushiha)
