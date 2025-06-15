@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+*.env/
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+qrng_env/
+.matplotlib/
+*.so
+.vscode/
+.idea/
+*.png
+*.zip
